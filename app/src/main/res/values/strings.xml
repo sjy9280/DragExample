@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DragExample</string>
+    <string name="msg_test1">人生如逆旅，我亦是行人。</string>
+    <string name="msg_test2">要么庸俗，要么孤独。</string>
+    <string name="msg_test3">不乱于心，不困于情。不畏将来，不念过往。如此，安好。</string>
+    <string name="msg_test4">人的一切痛苦，本质上都是对自己的无能的愤怒。</string>
+    <string name="msg_test5">我们继续奋力向前，逆水行舟，被不断地向后推，直至回到往昔岁月。</string>
+    <string name="msg_test6">万物皆有裂痕，那是光照进来的地方。</string>
+    <string name="msg_test7">一切伟大的行动和思想，都有一个微不足到的开始。</string>
+    <string name="msg_test8">好习惯的养成，在于不受坏习惯的诱惑。</string>
+    <string name="msg_test9">品格就是你在黑暗中的为人。</string>
+    <string name="msg_test10">凡事预则立，不预则废。</string>
 </resources>
